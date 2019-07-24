@@ -47,7 +47,7 @@
     +   [DIFFUSION SCATTERING TRANSFORMS ON GRAPHS](https://arxiv.org/pdf/1806.08829.pdf)
     +   [Graph Wavelet Neural Network](https://openreview.net/pdf?id=H1ewdiR5tQ)
     +   [LanczosNet: Multi-Scale Deep Graph Convolutional Networks](https://openreview.net/pdf?id=BkedznAqKQ)
-    +   [Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification] (https://arxiv.org/pdf/1811.11103.pdf)
+    +   [Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification](https://arxiv.org/pdf/1811.11103.pdf)
     +   [Geniepath: Graph neural networks with adaptive receptive paths](https://arxiv.org/pdf/1802.00910.pdf)
     +   [Hypergraph Neural Networks](https://arxiv.org/pdf/1809.09401.pdf)
     +   [Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks](https://arxiv.org/pdf/1810.02244.pdf)
